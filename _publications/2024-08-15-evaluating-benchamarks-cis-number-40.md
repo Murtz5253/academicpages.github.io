@@ -6,7 +6,7 @@ date: 2024-08-15
 venue: 'ACM ICER'
 ---
 
-_Recommended Citation: **Murtaza Ali**, Prerna Rao, Yifan Mai, and Benjamin Xie. 2024. Using Benchmarking Infrastructure to Evaluate LLM Performance on CS Concept Inventories: Challenges, Opportunities, and Critiques. In Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (ICER '24), Vol. 1. Association for Computing Machinery, New York, NY, USA, 452–468. https://doi.org/10.1145/3632620.3671097
+_Recommended Citation_: **Murtaza Ali**, Prerna Rao, Yifan Mai, and Benjamin Xie. 2024. Using Benchmarking Infrastructure to Evaluate LLM Performance on CS Concept Inventories: Challenges, Opportunities, and Critiques. In Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (ICER '24), Vol. 1. Association for Computing Machinery, New York, NY, USA, 452–468. https://doi.org/10.1145/3632620.3671097
 
 Background and context. The pace of advancement of large language models (LLMs) motivates the use of existing infrastructure to automate the evaluation of LLM performance on computing education tasks. Concept inventories are well suited for evaluation because of their careful design and prior validity evidence.
 
