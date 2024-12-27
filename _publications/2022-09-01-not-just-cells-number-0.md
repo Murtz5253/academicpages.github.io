@@ -3,7 +3,7 @@ title: "Not Just Cells in a Dataset: Imagining a Human-Centered Data Science App
 collection: publications
 permalink: /publication/2022-09-01-not-just-cells-number-1
 date: 2022-09-01
-venue: 'CHI (Workshop)'
+venue: 'ACM CHI (Workshop)'
 ---
 
 [View paper here](https://drive.google.com/file/d/17XKySYg-cR0clxC1E4YNkSWEX-2-5OWQ/view)
