@@ -1,5 +1,9 @@
 ---
-title: "Even Though I Went Through Everything, I Didn't Feel Like I Learned a Lot": Insights From Experiences of Non-Computer Science Students Learning to Code
+title: "'Even Though I Went Through Everything, I Didn't Feel Like I Learned a Lot': Insights From Experiences of Non-Computer Science Students Learning to Code"
+collection: publications
+permalink: /publication/2025-05-25-insights-from-experiences-of-non-majors-number-50
+date: 2025-05-25
+venue: 'ACM CHI'
 ---
 
 Murtaza Ali and Sayamindu Dasgupta. 2025. "Even Though I Went Through Everything, I Didn't Feel Like I Learned a Lot": Insights From Experiences of Non-Computer Science Students Learning to Code. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 49, 1–18. https://doi.org/10.1145/3706598.3713624
