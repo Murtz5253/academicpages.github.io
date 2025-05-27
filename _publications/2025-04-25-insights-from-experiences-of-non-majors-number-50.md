@@ -1,5 +1,5 @@
 ---
-title: '"Even Though I Went Through Everything, I Didn't Feel Like I Learned a Lot": Insights From Experiences of Non-Computer Science Students Learning to Code'
+title: "Even Though I Went Through Everything, I Didn't Feel Like I Learned a Lot": Insights From Experiences of Non-Computer Science Students Learning to Code
 collection: publications
 permalink: /publication/2025-04-25-insights-from-experiences-of-non-majors-number-50
 date: 2025-04-25
