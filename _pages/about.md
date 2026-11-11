@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Human-Centered Design and Engineering at the University of Washington, working with Dr. Sayamindu Dasgupta and Dr. Cecilia Aragon. I earned my B.A. in Applied Mathematics from UC Berkeley, with a focus in Computer Science.
+I am a Ph.D. Candidate in Human-Centered Design and Engineering at the University of Washington, advised by Dr. Sayamindu Dasgupta and Dr. Cecilia Aragon. I study computer science and education, and I specialize in helping learners across disciplines use AI.
 
-My research interests center around computing education, learning sciences, and data visualization. I am particularly interested in the design, teaching, and structure of introductory computing and data courses for non-major students learning programming. I have taught introductory courses at various levels, including at the high school, undergraduate, and graduate levels, as well as for industry learners interested in advancing their careers.
+**My work has shown that connecting programming to learners’ home disciplines is key to engaging them in computing.** I design pedagogical frameworks and systems that help end-user programmers preserve domain intuition and understanding when programming with generative AI.
